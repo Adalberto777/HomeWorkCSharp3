@@ -1,0 +1,15 @@
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\bin\Debug\net6.0\task23.exe
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\bin\Debug\net6.0\task23.deps.json
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\bin\Debug\net6.0\task23.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\bin\Debug\net6.0\task23.pdb
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\refint\task23.dll
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.pdb
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+D:\NewGeekBrains\C_Sharp\HomeWorkCSharp3\task23\obj\Debug\net6.0\ref\task23.dll
