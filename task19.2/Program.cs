@@ -2,9 +2,10 @@
 
 Console.WriteLine("Enter a five-digit number");
 int number = int.Parse(Console.ReadLine());
-int digit = number;
-int newnumber = 0;
-int dig = 0;
+
+int digit = number; // временная переменная, что бы сохранить исходное число number
+int newnumber = 0; // будующая инвертированная переменная number
+int dig = 0;      // временная переменая для откусывания от number последней цифры
 
 while (digit > 0)
 {
